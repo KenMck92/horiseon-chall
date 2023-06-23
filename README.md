@@ -6,6 +6,6 @@ Created a repo through Github and cloned it through terminal into my correct fil
 In CSS I made the appropriate changes to add or take out the classes or ids to read from my HTML. I combined multiple codes into one that had the same edits and that were in the same class or tag. For everything changed in CSS a comment was left to show my changes. 
 
 ## Usage
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/ken/bootcamp/horiseon-refactor/assets/images/horiseon-refactor%20screenshot.png?version%3D1687478028097)
+![Alt text](./assets/images/horiseon-refactor%20screenshot.png)
 
 https://kenmck92.github.io/horiseon-refactor/
